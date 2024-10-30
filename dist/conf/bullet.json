@@ -1,0 +1,10 @@
+{
+  "cattrito":0.01,
+  "MAXACC": 20,
+  "repulsion_radius": 5,
+  "MINSPEED": 0.01,
+  "elasticita": 0,
+  "size": 20,
+  "ecollidable":["enemy_archer", "enemy_tank", "player", "enemy_creeper"],
+  "type": "bomb"
+}

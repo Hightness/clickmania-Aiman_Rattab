@@ -1,0 +1,16 @@
+{
+  "cattrito":0.72,
+  "MAXACC":15,
+  "repulsion_radius":50,
+  "elasticita": 0.5,
+  "health":3,
+  "MINSPEED":0.01,
+  "attack_area": 300,
+  "cone_of_vision":1.5,
+  "vision_radius":300,
+  "awareness_radius":950,
+  "size":30,
+  "death_animation":150,
+  "ecollidable":["enemy_archer", "player"],
+  "type": "enemy_archer"
+}

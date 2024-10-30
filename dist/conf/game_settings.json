@@ -1,0 +1,14 @@
+{
+  "DELAY": 16,
+  "size_spawn": 200,
+  "MAP_PADDING": 100,
+  "MAP_HEIGHT": 10000,
+  "lava_friction": 1.2,
+  "water_friction": 1.1,
+  "MAP_WIDTH": 10000,
+  "num_enemy_archers": 1000,
+  "num_items": 200,
+  "num_enemy_creepers": 200,
+  "num_enemy_tanks": 1000,
+  "seed": 3141592653589793242
+}

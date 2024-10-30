@@ -1,0 +1,16 @@
+{
+  "cattrito":0.77,
+  "MAXACC":10,
+  "repulsion_radius":40,
+  "elasticita": 0.3,
+  "health":5,
+  "MINSPEED":0.01,
+  "attack_area":200,
+  "cone_of_vision":1.8,
+  "vision_radius":200,
+  "awareness_radius":950,
+  "size":40,
+  "death_animation":160,
+  "ecollidable":["enemy_tank", "player"],
+  "type": "enemy_tank"
+}
